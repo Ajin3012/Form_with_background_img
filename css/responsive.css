@@ -1,0 +1,128 @@
+@media(min-width:200px) and (max-width:767px){
+	.container{
+		width:90%;
+	}
+	.col-mb-1{
+	width:8.33%;
+	padding:0 15px;
+	}
+	.col-mb-2{
+	width:16.66%;
+	padding:0 15px;
+	}
+	.col-mb-3{
+	width:25%;
+	padding:0 15px;
+	}
+	.col-mb-4{
+	width:33.33%;
+	padding:0 15px;
+	}
+	.col-mb-5{
+	width:41.66%;
+	padding:0 15px;
+	}
+	.col-mb-6{
+	width:50%;
+	padding:0 15px;
+	}
+	.col-mb-7{
+	width:58.33%;
+	padding:0 15px;
+	}
+	.col-mb-8{
+	width:66.66%;
+	padding:0 15px;
+	}
+	.col-mb-9{
+	width:75%;	
+	padding:0 15px;
+	}
+	.col-mb-10{
+	width:83.33%;
+	padding:0 15px;
+	}	
+	.col-mb-11{
+	width:91.66%;
+	padding:0 15px;
+	}
+	.col-mb-12{
+	width:100%;
+	padding:0 15px;
+	}
+.bi-envelope{
+	font-size:16px;
+}
+#email{
+	font-size:16px;
+}
+.bi-lock{
+	font-size:16px;
+}
+#password{
+	font-size:16px;
+}
+.content p{
+	width:90%;
+}
+	
+}
+@media(min-width:768px) and (max-width:998px){
+	.container{
+	width:90%;
+	}
+	.col-tb-1{
+	width:8.33%;
+	padding:0 15px;
+	}
+	.col-tb-2{
+	width:16.66%;
+	padding:0 15px;
+	}
+	.col-tb-3{
+	width:25%;
+	padding:0 15px;
+	}
+	.col-tb-4{
+	width:33.33%;
+	padding:0 15px;
+	}
+	.col-tb-5{
+	width:41.66%;
+	padding:0 15px;
+	}
+	.col-tb-6{
+	width:50%;
+	padding:0 15px;
+	}
+	.col-tb-7{
+	width:58.33%;
+	padding:0 15px;
+	}
+	.col-tb-8{
+	width:66.66%;
+	padding:0 15px;
+	}
+	.col-tb-9{
+	width:75%;
+	padding:0 15px;
+	}
+	.col-tb-10{
+	width:83.33%;
+	padding:0 15px;
+	}
+	.col-tb-11{
+	width:91.66%;
+	padding:0 15px;
+	}
+	.col-tb-12{
+	width:100%;
+	padding:0 15px;
+	}
+#email{
+	width:80%;
+}
+#password{
+	width:80%;
+}
+}
